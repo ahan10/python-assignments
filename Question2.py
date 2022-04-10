@@ -1,19 +1,18 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 2
 #Problem: Write a Python program to print your ID – Card
 '''
-studentName='Ahan Bhargava'
-rollNum='AU2020167'
+studentName='Name'
+rollNum='123456789'
 phoneNum='1234567890'
-Add='123, ABC Complex\n\t Gandhinagar, Gujarat'
+Add='123, ABC Street\n\t Toronto, Ontario'
 print('\t\tID CARD\nName:',studentName,'\nRoll Number:',rollNum,'\nPhone Number',phoneNum,'\nAddress:',Add)
 '''
 Program Output:
                 ID CARD
-Name: Ahan Bhargava
-Roll Number: AU2020167
+Name: Name
+Roll Number: 123456789
 Phone Number 1234567890
-Address: 123, ABC Complex
-         Gandhinagar, Gujarat
+Address: 123, ABC Street
+         Toronto, Ontario
 '''
