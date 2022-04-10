@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 14
 #Problem: Write a Python program to input 3 numbers from user and print the maximum among
 them.
