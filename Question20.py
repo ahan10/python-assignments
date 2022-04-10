@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 20
 #Problem: Write a program to enter a number from the user and display the sum of all the digits in the number.
 '''
