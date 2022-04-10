@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 19
 #Problem: Write a program to accept two numbers and one mathematical operator. Calculate and display appropriate answer.
 '''
