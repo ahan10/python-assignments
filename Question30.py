@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 30
 #Problem: Print multiplication table of a number entered by the user. Validate that the number must be between 1 and 20.
 '''
