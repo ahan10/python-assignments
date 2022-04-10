@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 4
 #Problem: Write a Python program to check whether a number is divisible by 5 or not
 '''
