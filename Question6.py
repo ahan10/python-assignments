@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 6
 #Problem: Write a Python program to find the Square Root of a given number.
 '''
