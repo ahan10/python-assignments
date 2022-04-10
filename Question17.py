@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 17
 #Problem: Write a Python program to read a character from the user and check whether it is a vowel (aeiou) or consonant.
 '''
