@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 25
 #Problem: Write a program that take input of 3 subjects marks out of 150. Count the percentage
 '''
