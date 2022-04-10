@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 7
 #Problem: Write a Python program to input angles of a triangle and check whether triangle is valid or not.
 '''
