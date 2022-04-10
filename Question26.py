@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 26
 #Problem: Accept the marks (out of 70) for 3 subjects (Maths, physics, chemistry) from the user and check if the student is eligible for admission.
 '''
