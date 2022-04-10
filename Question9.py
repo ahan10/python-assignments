@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 9
 #Problem: Write a Python program to check whether a person is eligible to vote or not.
 '''
