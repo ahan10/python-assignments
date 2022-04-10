@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 24
 #Problem: Calculate the area of triangle given its three sides.
 '''
