@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 10
 #Problem: Write a Python program to make a Simple Calculator.
 '''
