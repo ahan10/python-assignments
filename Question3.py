@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 3
 #Problem: Write a Python program to input a number and check whether the entered number is even or odd.
 '''
