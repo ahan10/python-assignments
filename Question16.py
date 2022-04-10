@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 16
 #Problem: Create a converter that will convert a distance in meters to feet and inches.
 '''
