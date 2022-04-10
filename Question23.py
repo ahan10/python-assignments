@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 23
 #Problem: Accept a number N from the user and print the first N elements of the Fibonacci series.
 '''
