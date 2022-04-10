@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 28
 #Problem: Write to program to print following series using looping concept.
 '''
