@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 21
 #Problem: Accept a year from the user and check whether it is leap year or not.
 '''
