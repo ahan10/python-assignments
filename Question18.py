@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 18
 #Problem: Write a program to check whether a character is uppercase or lowercase alphabet.
 '''
