@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 8
 #Problem: Write a Python program to calculate the Area of a Triangle.
 '''
