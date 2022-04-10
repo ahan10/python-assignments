@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 27
 #Problem: Considering three numbers provided by the user as length of sides of a triangle, first check, if the values are valid for representing the sides of a triangle. If the lengths of sides are valid, print the type of the triangle.
 '''
