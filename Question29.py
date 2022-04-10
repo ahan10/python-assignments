@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 29
 #Problem: Write a program to print following pattern. (hint: nested for loop)
 A
