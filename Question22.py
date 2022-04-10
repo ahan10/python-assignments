@@ -1,5 +1,4 @@
 '''
-#RollNo-Name: AU2020167 Ahan Bhargava
 #Program Number: 22
 #Problem: Write a program called ExtractDigits to extract each digit from an int in the reverse order. 
 '''
